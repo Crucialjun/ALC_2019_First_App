@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='ALC 2019 First App'
